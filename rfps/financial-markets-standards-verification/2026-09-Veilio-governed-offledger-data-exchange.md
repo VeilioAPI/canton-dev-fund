@@ -6,7 +6,7 @@
 | Author                 | Quentin CLEMENT (CEO)                                                                                                                                       |
 | Org                    | Veilio                                                                                                                                                      |
 | Implementation partner | Avicenne Studio (Canton validator : DevNet / TestNet / MainNet)                                                                                             |
-| Status                 | Draft for champion review                                                                                                                                   |
+| Status                 | Submitted                                                                                                                                 |
 | Created                | 2026-08-12                                                                                                                                                  |
 | Updated                | 2026-09-21                                                                                                                                                  |
 | Proposal type          | **RFP-aligned** (not individual initiative)                                                                                                                 |
